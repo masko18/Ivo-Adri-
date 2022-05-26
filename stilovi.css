@@ -1,0 +1,25 @@
+h1 {color:rgb(4, 1, 7); text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-style: italic;}
+p {font-size: larger; font-family:Verdana, Geneva, Tahoma, sans-serif;}
+body {background-color:wheat; }
+
+    .prvi{padding-top: 5pt;
+    padding-bottom: 5pt;
+    padding-left: 26%;
+    padding-right: 27%;
+    width: 700px;
+    color:rgb(240, 241, 247);
+    border: solid 4px;
+    border-color:darkred;
+    background-color:brown;
+    text-shadow: 2px 2px black;}
+
+    header{background-image: url(slike/GettyImages-577674005_492115_zfpgiw.jpg); height: 100px;}
+    li,ul{list-style-type: square;}
+    table, th, td {border: 2px solid gray; font-size: larger;}
+    footer{width:100%;
+    text-align:center;
+margin:0pt;
+padding: 1px;
+background-color: brown;
+color:white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
